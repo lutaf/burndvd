@@ -9,7 +9,7 @@ Pure C++ project for  CD/DVD burning use Nero Api
 
 - 用Microsoft Visual C++ 2003开发，c++代码，容器只使用了STL
 - 编程生成为win32 dll
-- 项目背景:<http://lutaf.com>
+- 项目背景:<http://lutaf.com/109.htm>
 - Nero SDK 下载地址：<ftp://ftp6.nero.com/>
 
 
